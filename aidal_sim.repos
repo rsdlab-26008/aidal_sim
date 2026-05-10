@@ -1,0 +1,17 @@
+repositories:
+  aidal_description:
+    type: git
+    url: https://github.com/rsdlab-26008/aidal_description.git
+    version: main
+  aidal_moveit_config:
+    type: git
+    url: https://github.com/rsdlab-26008/aidal_moveit_config.git
+    version: main
+  ros2_controllers:
+    type: git
+    url: https://github.com/rsdlab-26008/ros2_controllers.git
+    version: humble
+  ros2_rm_robot:
+    type: git
+    url: https://github.com/rsdlab-26008/ros2_rm_robot.git
+    version: humble
